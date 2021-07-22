@@ -48,3 +48,10 @@ npx webpack
 ``` bat
 npx webpack --config webpack.config.js
 ```
+
+## npm scripts 
+
+* 重新构建
+``` bat
+npm run build
+```
