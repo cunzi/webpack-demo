@@ -32,3 +32,13 @@ npm install webpack webpack-cli --save-dev
   }
 ```
 现在你可以在浏览器中打开index.html文件了
+
+## 创建一个 bundle
+* 安装lodash 依赖
+``` bat
+npm install --save lodash
+```
+* npx命令打包
+``` bat
+npx webpack
+```
