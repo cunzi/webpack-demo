@@ -42,3 +42,9 @@ npm install --save lodash
 ``` bat
 npx webpack
 ```
+
+## 使用一个配置文件
+* 使用配置文件构建
+``` bat
+npx webpack --config webpack.config.js
+```
