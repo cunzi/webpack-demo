@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# 编译后的文件屏蔽
+/dist/
