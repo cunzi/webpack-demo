@@ -105,3 +105,4 @@ dist
 
 # 编译后的文件屏蔽
 /dist/*.js*
+/dist/index.html
