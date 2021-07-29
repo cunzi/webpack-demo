@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/cunzi/webpack-demo#readme",
   "devDependencies": {
+    "clean-webpack-plugin": "^4.0.0-alpha.0",
     "css-loader": "^6.2.0",
     "csv-loader": "^3.0.3",
     "file-loader": "^6.2.0",
